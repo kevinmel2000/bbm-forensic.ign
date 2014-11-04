@@ -2,15 +2,15 @@
   "config" : {
 		"debug" : true,
 		"websecurity" : true,
-		"name" : "BBM Forensic"
+		"name" : "Alat Bantu Forensik BBM"
   },
   "window" : {
 		"transparent" : false,
 		"noframe" : false,
 		"fullscreen" : false,
 		"maximize" : false,
-		"width" : 700,
-		"height" : 500
+		"width" : 1050,
+		"height" : 600
 	},
   "button" : [
 		"back",
